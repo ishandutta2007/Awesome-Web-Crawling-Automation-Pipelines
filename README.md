@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Web-Crawling-Automation-Pipelines/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Web-Crawling-Automation-Pipelines?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Web-Crawling-Automation-Pipelines/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Web-Crawling-Automation-Pipelines?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Web-Crawling-Automation-Pipelines/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Web-Crawling-Automation-Pipelines?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Web-Crawling-Automation-Pipelines/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Web-Crawling-Automation-Pipelines?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -66,9 +66,9 @@ Below is an exhaustive comparison of the top hosted web crawling and data extrac
 
 ## 🛠️ Open-Source GitHub Projects
 
-The following curated open-source projects power modern web data extraction, browser automation, and crawling pipelines. Repositories are ranked in descending order by GitHub star count.
+The following curated open-source projects power modern web data extraction, browser automation, and crawling pipelines. Repositories are ranked in descending order by GitHub Stars_Count.
 
-| Project & Repository | Star Count | Architecture & Tech Stack | Description |
+| Project & Repository | Stars_Count | Architecture & Tech Stack | Description |
 | :--- | :--- | :--- | :--- |
 | **[n8n](https://github.com/n8n-io/n8n)** | [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | TypeScript / Node.js | Fair-code/open-source workflow automation platform widely used to orchestrate scheduled HTTP/Playwright/Firecrawl scraping pipelines, AI parsing, and database ingestion. |
 | **[Firecrawl OSS](https://github.com/mendableai/firecrawl)** | [![Stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=social&color=white)](https://github.com/mendableai/firecrawl/stargazers) | TypeScript / Python / Redis | Self-hostable open-source crawling and scraping engine converting entire websites into structured data and LLM-ready clean Markdown using Playwright workers and Redis queues. |
